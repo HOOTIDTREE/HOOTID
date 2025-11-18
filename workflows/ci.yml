@@ -1,4 +1,4 @@
-name: Continuous Integration   MONSRC
+name: Continuous Integration   NIMBER
 
 # Define when the workflow should run 
 on:
